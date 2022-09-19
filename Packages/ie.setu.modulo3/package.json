@@ -1,6 +1,6 @@
 {
 	"name": "ie.setu.modulo3",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"displayName": "Modulo3",
 	"description": "Replace each integer by itself mod 3.",
 	"unity": "2021.3"
